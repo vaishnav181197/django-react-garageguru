@@ -1,0 +1,4 @@
+
+
+localhost:8000/customer/
+localhost:8000/customer/1/add_service/
